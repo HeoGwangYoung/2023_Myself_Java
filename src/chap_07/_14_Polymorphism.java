@@ -44,7 +44,7 @@ public class _14_Polymorphism {
             ((FactoryCam) factoryCam).detectFire();
         }
 
-        if (speedCam instanceof  SpeedCam) {
+        if (speedCam instanceof SpeedCam) {
             ((SpeedCam) speedCam).checkSpeed();
             ((SpeedCam) speedCam).recognizeLicensePlate();
         }
