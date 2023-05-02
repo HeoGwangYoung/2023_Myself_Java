@@ -1,7 +1,6 @@
 package chap_09;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 public class _07_HashMap {
     public static void main(String[] args) {
